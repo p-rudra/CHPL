@@ -1,0 +1,30 @@
+.container{
+    height: 500px;
+    width: 400px;
+    border: 2px solid black;
+    display: block;
+    border-radius: 4px;
+    margin: auto;
+    background-color:cadetblue;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 250px;
+    width: 400px;
+    border-radius: 15px;
+}
+audio{
+    display: block;
+    margin: auto;
+    background-color: cadetblue;
+}
+button{
+    margin-left: 100px;
+    margin-top: 24px;
+    font-size: 28px;
+    border: none;
+    background-color:cadetblue;
+}
