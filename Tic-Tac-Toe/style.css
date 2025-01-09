@@ -1,0 +1,24 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    margin: auto;
+}
+p{
+    width:auto;
+    display: flex;
+    justify-content: center;
+}
+#result{
+    display: flex;
+    justify-content: center;
+}
+button{
+    display: block;
+    margin: auto;
+}
