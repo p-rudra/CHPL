@@ -1,0 +1,35 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    border: 2px solid black;
+    background-color:rgb(209, 209, 176);
+}
+
+#dice {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+#butn {
+    background: #4ecca3;
+    font-family: "Indie Flower", cursive;
+    border-radius: 7px;
+    color: #ffff;
+    font-size: 30px;
+    padding: 16px 25px 16px 25px;
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    margin-top: 24px;
+}
+
+#butn:hover {
+    background: #232931;
+    text-decoration: none;
+}
+h1{
+    color: rgb(2, 58, 58);
+    font-family: "Indie Flower", cursive;
+
+}
